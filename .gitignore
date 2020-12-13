@@ -74,7 +74,7 @@ pytestdebug.log
 *.mo
 
 # Django stuff:
-settings.py
+movie_poster/movie_poster/settings.py
 
 # Flask stuff:
 instance/
